@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_location"
+        android:orderInCategory="100"
+        android:title="@string/location"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_add_sparepart"
+        android:orderInCategory="100"
+        android:title="@string/add_spar"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_add_bengkel"
+        android:orderInCategory="100"
+        android:title="@string/add_beng"
+        app:showAsAction="never" />
+</menu>
